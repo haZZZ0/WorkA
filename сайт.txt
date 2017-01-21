@@ -1,0 +1,145 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru">
+
+<!-- 
+"ICE STUDIO" © 2015-2017
+Developer by Mark Pogorelets
+-->
+<html>
+<head>
+
+
+		<title>ICE STUDIO</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+	</head>
+	<body class="landing">
+		<div id="page-wrapper">
+			<!-- Header -->
+					<header id="header">
+					<nav id="nav">
+					 
+					        <ul>
+							<li><a href="/index.html">Главная</a></li>
+							<li><a href="#">Новости</a></li>
+                           <li><a href='/PraisIC.docx'>Прайс-лист</a></li>
+                            <li><a href="http://webmail1.hostinger.ru/roundcube/">Почта</a></li>
+
+                            
+
+							        </li>
+								</ul>
+							</li>
+						</ul>
+					</nav>
+				</header>
+			<!-- Banner -->
+				<section id="banner">
+					<div class="content">
+						<header>
+							<h2 align=left>Информация о нас</h2>
+							<p align>Мы занимаемся созданием и разработкой сайтов,программного обеспечения,приложений,графикой!<br />
+							У вас сложный проект? Для нас это не проблема!</p>
+						</header>
+						<span class="image"><img src="images/logo.jpg" alt="" /></span>
+					</div>
+					<a href="#one" class="goto-next scrolly">Дальше</a>
+				</section>
+
+
+			<!-- Four -->
+				<section id="four" class="wrapper style1 special fade-up">
+					<div class="container">
+						<header class="major">
+							<h2>Мы предоставляем лучшее качество услуг по лучшим ценам!</h2>
+							<p>Больше информаций о нашей деятельности:</p>
+						</header>
+						<div class="box alt">
+							<div class="row uniform">
+								<section class="4u 6u(medium) 12u$(xsmall)">
+									<span class="icon alt major fa-area-chart"></span>
+									<h3>Интернет маркетинг</h3>
+									<p>Продвижение и развитие в интернет сфере.</p>
+								</section>
+								<section class="4u 6u$(medium) 12u$(xsmall)">
+									<span class="icon alt major fa-comment"></span>
+									<h3>Техническая поддрежка</h3>
+									<p>Обслуживание и поддержка клиентов 24/7/365.</p>
+								</section>
+								<section class="4u$ 6u(medium) 12u$(xsmall)">
+									<span class="icon alt major fa-flask"></span>
+									<h3>Стартап и бренд</h3>
+									<p>Инвестиций, идея, развитие и продвижение.</p>
+								</section>
+								<section class="4u 6u$(medium) 12u$(xsmall)">
+									<span class="icon alt major fa-paper-plane"></span>
+									<h3>Монтенизация</h3>
+									<p>Создание плана вложение и окупаемости проекта. </p>
+								</section>
+								<section class="4u 6u(medium) 12u$(xsmall)">
+									<span class="icon alt major fa-file"></span>
+									<h3>Разработка</h3>
+									<p>Создание и разработка сайтов, ПО, приложений, графики и макетов.</p>
+								</section>
+								<section class="4u$ 6u$(medium) 12u$(xsmall)">
+									<span class="icon alt major fa-lock"></span>
+									<h3>Безопасность</h3>
+									<p>Полная защита и конфиденциальность идей и разработак.</p>
+								</section>
+							</div>
+						</div>
+						<footer class="major">
+							<ul class="actions">
+								<li><a href="#" class="button">Информация</a></li>
+							</ul>
+						</footer>
+					</div>
+				</section>
+
+			<!-- Five -->
+				<section id="five" class="wrapper style2 special fade">
+					<div class="container">
+						<header>
+							<h2>Обратная связь</h2>
+							<p>Хотите стать нашим клиентом? Оставьте нам сообщение и мы свяжемся с вами!</p>
+						</header>
+						<form method="post" action="#" class="container 50%">
+							<div class="row uniform 50%">
+								<div class="8u 12u$(xsmall)"><input type="email" name="email" id="email" placeholder="Оставить сообщение..." /></div>
+								<div class="4u$ 12u$(xsmall)"><input type="submit" value="Отправить" class="fit special" /></div>
+							</div>
+						</form>
+					</div>
+				</section>
+
+			<!-- Footer -->
+				<footer id="footer">
+					<ul class="icons">
+						<li><a href="#" class="icon alt fa-facebook"><span class="label">Facebook</span></a></li>
+						<li><a href="#" class="icon alt fa-envelope"><span class="label">Email</span></a></li>
+					</ul>
+					<ul class="copyright">
+						<li>2015 - 2017 &copy; All rights reserved.</li><li>Developer by: <a href="http://ice-studio.tk">ICE STUDIO</a></li>
+					</ul>
+				</footer>
+		        </div>
+             <!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.dropotron.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+</script>
+</body>
+</html>
+<!-- 
+"ICE STUDIO" © 2015-2017
+Developer by Mark Pogorelets
+-->
